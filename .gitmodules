@@ -1,0 +1,3 @@
+[submodule "nest-starter-logger"]
+	path = nest-starter-logger
+	url = https://github.com/sunday00/nest-start-logger
